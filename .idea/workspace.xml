@@ -36,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ILikeJava">
     <configuration name="HelloBelarus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part1.task2.HelloBelarus" />
       <module name="jc1_homework" />
@@ -50,8 +50,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ILikeJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part1.task3.ILikeJava" />
+      <module name="jc1_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part1.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ILikeJava" />
         <item itemvalue="Application.HelloBelarus" />
       </list>
     </recent_temporary>
