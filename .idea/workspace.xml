@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task3 done">
-      <change afterPath="$PROJECT_DIR$/src/part2/task4/Variables.java" afterDir="false" />
+    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task4 done">
+      <change afterPath="$PROJECT_DIR$/src/part2/task5/FirstMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +35,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/lessons"
   }
-}</component>
-  <component name="RunManager" selected="Application.Variables">
+}]]></component>
+  <component name="RunManager" selected="Application.FirstMethod">
+    <configuration name="FirstMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part2.task5.FirstMethod" />
+      <module name="jc1_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part2.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloBelarus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part1.task2.HelloBelarus" />
       <module name="jc1_homework" />
@@ -82,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstMethod" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.ILikeJava" />
         <item itemvalue="Application.HelloBelarus" />
@@ -111,12 +127,20 @@
       <option name="project" value="LOCAL" />
       <updated>1679433551875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task4 done">
+      <created>1679434328872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679434328872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task2 done" />
     <MESSAGE value="task3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task3 done" />
+    <MESSAGE value="task4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task4 done" />
   </component>
 </project>
