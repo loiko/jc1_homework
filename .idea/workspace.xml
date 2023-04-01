@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task5 done">
-      <change afterPath="$PROJECT_DIR$/src/part2/task6/Timing.java" afterDir="false" />
+    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task7 done">
+      <change afterPath="$PROJECT_DIR$/src/part3/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +38,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/lessons"
+    "last_opened_file_path": "C:/jc1_homework"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Timing">
+  <component name="RunManager" selected="Application.Task7">
     <configuration name="FirstMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part2.task5.FirstMethod" />
       <module name="jc1_homework" />
@@ -54,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloBelarus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part1.task2.HelloBelarus" />
+    <configuration name="ILikeJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part1.task3.ILikeJava" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part1.task2.*" />
+          <option name="PATTERN" value="part1.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ILikeJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part1.task3.ILikeJava" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.Task7" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part1.task3.*" />
+          <option name="PATTERN" value="part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task7" />
         <item itemvalue="Application.Timing" />
         <item itemvalue="Application.FirstMethod" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.ILikeJava" />
-        <item itemvalue="Application.HelloBelarus" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679483702479</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task6 done">
+      <created>1679484430936</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679484430936</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +169,8 @@
     <MESSAGE value="task3 done" />
     <MESSAGE value="task4 done" />
     <MESSAGE value="task5 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task5 done" />
+    <MESSAGE value="task6 done" />
+    <MESSAGE value="task7 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task7 done" />
   </component>
 </project>
