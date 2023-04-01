@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task8 done">
-      <change afterPath="$PROJECT_DIR$/src/part3/Task9.java" afterDir="false" />
+    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task9 done">
+      <change afterPath="$PROJECT_DIR$/src/part3/Task10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +41,13 @@
     "last_opened_file_path": "C:/jc1_homework"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task9">
-    <configuration name="FirstMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part2.task5.FirstMethod" />
+  <component name="RunManager" selected="Application.Task10">
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.Task10" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part2.task5.*" />
+          <option name="PATTERN" value="part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task8" />
         <item itemvalue="Application.Task7" />
         <item itemvalue="Application.Timing" />
-        <item itemvalue="Application.FirstMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680357277649</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task9 done">
+      <created>1680363000181</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680363000181</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +193,7 @@
     <MESSAGE value="task6 done" />
     <MESSAGE value="task7 done" />
     <MESSAGE value="task8 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task8 done" />
+    <MESSAGE value="task9 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task9 done" />
   </component>
 </project>
