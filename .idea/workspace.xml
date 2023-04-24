@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task33 done">
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/MasterCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/PlatinumCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/VisaCard.java" afterDir="false" />
+    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task34 done">
+      <change afterPath="$PROJECT_DIR$/src/part8/task35/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task35/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task35/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task35/MixedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task35/PercentageEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task35/SalaryCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/part3/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Task10.java" afterDir="false" />
     </list>
@@ -47,13 +48,13 @@
     "last_opened_file_path": "C:/jc1_homework"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task10">
-    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.Task10" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part8.task35.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="part8.task35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part7.Task29" />
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.Task10" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part7.*" />
+          <option name="PATTERN" value="part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Task32" />
         <item itemvalue="Application.Task31" />
         <item itemvalue="Application.Task30" />
-        <item itemvalue="Application.Task29" />
       </list>
     </recent_temporary>
   </component>
@@ -356,11 +357,17 @@
       <option name="project" value="LOCAL" />
       <updated>1682372108893</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="task34 done">
+      <created>1682375223325</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1682375223325</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task9 done" />
     <MESSAGE value="task10 done" />
     <MESSAGE value="task11 done" />
     <MESSAGE value="task12 done" />
@@ -385,6 +392,7 @@
     <MESSAGE value="task31 done" />
     <MESSAGE value="task32 done" />
     <MESSAGE value="task33 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task33 done" />
+    <MESSAGE value="task34 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task34 done" />
   </component>
 </project>
