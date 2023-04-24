@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task32 done">
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/HDR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/PowerSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/SmartTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/Socket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/TV.java" afterDir="false" />
+    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task33 done">
+      <change afterPath="$PROJECT_DIR$/src/part8/task34/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task34/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task34/MasterCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task34/PlatinumCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task34/VisaCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/part3/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Task10.java" afterDir="false" />
     </list>
@@ -350,11 +349,17 @@
       <option name="project" value="LOCAL" />
       <updated>1682098016966</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="task33 done">
+      <created>1682372108892</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1682372108893</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task8 done" />
     <MESSAGE value="task9 done" />
     <MESSAGE value="task10 done" />
     <MESSAGE value="task11 done" />
@@ -379,6 +384,7 @@
     <MESSAGE value="task30 done" />
     <MESSAGE value="task31 done" />
     <MESSAGE value="task32 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task32 done" />
+    <MESSAGE value="task33 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task33 done" />
   </component>
 </project>
