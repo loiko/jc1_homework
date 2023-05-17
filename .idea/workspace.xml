@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task46 done">
-      <change afterPath="$PROJECT_DIR$/src/part12/Task47.java" afterDir="false" />
+    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task47 done">
+      <change afterPath="$PROJECT_DIR$/src/part12/Task48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/part3/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Task10.java" afterDir="false" />
     </list>
@@ -44,26 +44,13 @@
     "last_opened_file_path": "C:/jc1_homework"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task47">
+  <component name="RunManager" selected="Application.Task48">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part11.task45.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="part11.task45.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part10.Task43" />
-      <module name="jc1_homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part12.Task48" />
+      <module name="jc1_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task48" />
         <item itemvalue="Application.Task47" />
         <item itemvalue="Application.Task46" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task44" />
-        <item itemvalue="Application.Task43" />
       </list>
     </recent_temporary>
   </component>
@@ -437,11 +437,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684353985791</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="task47 done">
+      <created>1684355999160</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1684355999160</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task21 done" />
     <MESSAGE value="task22 done" />
     <MESSAGE value="task23 done" />
     <MESSAGE value="task24 done" />
@@ -466,6 +472,7 @@
     <MESSAGE value="task44 done" />
     <MESSAGE value="task45 done" />
     <MESSAGE value="task46 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task46 done" />
+    <MESSAGE value="task47 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task47 done" />
   </component>
 </project>
