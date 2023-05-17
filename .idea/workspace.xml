@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task42 done">
-      <change afterPath="$PROJECT_DIR$/src/part10/Task43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part11/Task44.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/part3/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Task10.java" afterDir="false" />
     </list>
@@ -41,10 +41,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/lessons"
+    "last_opened_file_path": "C:/jc1_homework"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task43">
+  <component name="RunManager" selected="Application.Task44">
     <configuration name="Task40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part10.Task40" />
       <module name="jc1_homework" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="part9.task39.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part9.task39.Main" />
+    <configuration name="Task44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part11.Task44" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part9.task39.*" />
+          <option name="PATTERN" value="part11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task44" />
         <item itemvalue="Application.Task43" />
         <item itemvalue="Application.Task42" />
         <item itemvalue="Application.Task40" />
         <item itemvalue="Application.Task41" />
-        <item itemvalue="Application.part9.task39.Main" />
       </list>
     </recent_temporary>
   </component>
