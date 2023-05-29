@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task52 done">
-      <change afterPath="$PROJECT_DIR$/persons.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part13/Task53.java" afterDir="false" />
+    <list default="true" id="6a1985b5-f253-470f-a190-73bb88919bb9" name="Changes" comment="task53 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/part3/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Task10.java" afterDir="false" />
     </list>
@@ -45,26 +43,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/jc1_homework&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task53$Calculator">
+  <component name="RunManager" selected="Application.Task54$RandomNumber">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part12.task52.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="part12.task52.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part12.Task49" />
-      <module name="jc1_homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task54$RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part13.Task54$RandomNumber" />
+      <module name="jc1_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task54$RandomNumber" />
         <item itemvalue="Application.Task53$Calculator" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task51" />
         <item itemvalue="Application.Task50" />
-        <item itemvalue="Application.Task49" />
       </list>
     </recent_temporary>
   </component>
@@ -129,13 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679070175491</updated>
-    </task>
-    <task id="LOCAL-00002" summary="task3 done">
-      <created>1679433551875</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1679433551875</updated>
     </task>
     <task id="LOCAL-00003" summary="task4 done">
       <created>1679434328872</created>
@@ -473,11 +464,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684360869648</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="task53 done">
+      <created>1685364274158</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1685364274158</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task27 done" />
     <MESSAGE value="task28 done" />
     <MESSAGE value="task29 done" />
     <MESSAGE value="task30 done" />
@@ -502,6 +499,7 @@
     <MESSAGE value="task50 done" />
     <MESSAGE value="task51 done" />
     <MESSAGE value="task52 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task52 done" />
+    <MESSAGE value="task53 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task53 done" />
   </component>
 </project>
